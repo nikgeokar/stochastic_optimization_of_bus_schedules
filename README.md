@@ -16,15 +16,15 @@ This project presents an advanced framework for optimizing urban bus schedules b
 ---
 
 ## 📂 Project Structure
-├── Network_Structure.ipynb # Road network visualization
-├── Traffic_Prediction_GNN.ipynb # GNN-based traffic forecasting
-├── Passengers_Demand.ipynb # Passenger demand simulation
-├── Bus_Stop_Importance.ipynb # Calculation of stop importance weights
-├── Optimizer.ipynb # Stochastic optimization framework
-├── Passengers_Waiting_Time_Calculation.ipynb # Pre-computation of passenger waiting gaps
-├── Comparison_popular_ml_algo.ipynb # Comparative ML model analysis (XGBoost, LSTM, RF)
-├── GNN_Results_Analysis.ipynb # GNN performance analysis and results
-└── Graph_Data_Handler.py # Utility for graph data handling
+├── Network_Structure.ipynb # Road network visualization <br>
+├── Traffic_Prediction_GNN.ipynb # GNN-based traffic forecasting<br>
+├── Passengers_Demand.ipynb # Passenger demand simulation<br>
+├── Bus_Stop_Importance.ipynb # Calculation of stop importance weights<br>
+├── Optimizer.ipynb # Stochastic optimization framework<br>
+├── Passengers_Waiting_Time_Calculation.ipynb # Pre-computation of passenger waiting gaps<br>
+├── Comparison_popular_ml_algo.ipynb # Comparative ML model analysis (XGBoost, LSTM, RF)<br>
+├── GNN_Results_Analysis.ipynb # GNN performance analysis and results<br>
+└── Graph_Data_Handler.py # Utility for graph data handling<br>
 
 
 ## 🔧 Technical Stack
