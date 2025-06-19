@@ -13,7 +13,6 @@ This project presents an advanced framework for optimizing urban bus schedules b
 - **Stochastic Schedule Optimization:** Minimizes passenger waiting gaps, accounting for uncertainties.
 - **Operational Constraints Management:** Respects real-world operational constraints like bus availability, driver schedules, stop importance, and easily accommodates custom organizational constraints.
 
----
 
 ## 📂 Project Structure
 ├── Network_Structure.ipynb # Road network visualization <br>
@@ -25,6 +24,20 @@ This project presents an advanced framework for optimizing urban bus schedules b
 ├── Comparison_popular_ml_algo.ipynb # Comparative ML model analysis (XGBoost, LSTM, RF)<br>
 ├── GNN_Results_Analysis.ipynb # GNN performance analysis and results<br>
 └── Graph_Data_Handler.py # Utility for graph data handling<br>
+
+
+### 📂 Input Data
+
+To run this project, you will need the input dataset, which includes bus stop definitions, POI data, traffic speed history, and route mappings. These files have been preprocessed and packaged into a single ZIP archive available at the following Google Drive link:
+
+🔗 [Download Input Data (Google Drive)](https://drive.google.com/file/d/1qT9KpktiIadB_Nc0NugdVz0PhuDgpb3M/view?usp=sharing)
+
+
+**Instructions:**
+
+1. Download the ZIP file from the link above.
+2. Extract the contents of the archive into the following project's directory path in your local environment: io/input/
+3. After extraction, ensure the folder contains all required `.csv`, `.json`, and `.zip` files as referenced in the notebooks.
 
 
 ## 🔧 Technical Stack
